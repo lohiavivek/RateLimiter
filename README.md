@@ -1,4 +1,7 @@
-Command : python3 rate_limiter.py
+
+This is a simple rate-limiting middleware implementation using Flask. It allows per-client and per-endpoint request limiting with easy configuration.
+
+Command to Run : python3 rate_limiter.py
 
 3 endpoints:
 1. http://127.0.0.1:5000/
